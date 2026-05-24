@@ -46,7 +46,7 @@ The generated image successfully recreated the futuristic atmosphere and neon li
 
 ### 3. Final Detailed Prompt:
 
-<img width="1402" height="1122" alt="ChatGPT Image May 24, 2026, 06_24_53 PM" src="https://github.com/user-attachments/assets/19f0625c-62b6-4be2-8459-5cb522709bb0" />
+<img width="1536" height="1024" alt="ChatGPT Image May 24, 2026, 06_30_00 PM" src="https://github.com/user-attachments/assets/937b5492-a76c-4946-afea-1b5725c596c3" />
 
 ### 4. Comparison Report:
 
